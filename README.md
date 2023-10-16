@@ -36,5 +36,7 @@ A. A weird side effect of excluding certain Gloople types the easy way like I di
 ## TODO
 
 > Implement Boss Spawn blocking
+> 
 > Implement Progressive Gloople Fusion Spawns
+> 
 > Implement logic for max score and single-swing score to be fairer
