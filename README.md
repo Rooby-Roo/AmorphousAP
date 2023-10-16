@@ -18,25 +18,25 @@ To enable certain Gloople types to spawn, open the Practice menu and select the 
 
 ## FAQ
 
-Q. Why did you exclude [Award]?
+Q. Why did you exclude [Award]?  
 A. Some Awards have been pre-cleared because they promote issues for AP synchronous play. Some checks are literally an idle game, some require going out of your way to die repeatedly, and some are just too grindy to be practical. The option to re-enable most of these checks is tabled for some future date in which Manual has YAML option support.
 
-Q. Why are all the Gloople fusions one item?
+Q. Why are all the Gloople fusions one item?  
 A. Blocking Gray fusions is proving to be extraordinarily difficult. Code won't behave. This is something I hope to dig deeper into at some later date. For now, you can enable all three Gloople fusions by selecting "Oozle" in the Practice menu.
 
-Q. Why are you using v2.1 instead of v2.3?
+Q. Why are you using v2.1 instead of v2.3?  
 A. I literally didn't know v2.3 exists until after I started hacking. I'm not a Newgrounds regular. I hope to make this compatible with v2.3 at a later date.
 
-Q. Why do I get a reward key and the D item slot shortly after I start playing?
+Q. Why do I get a reward key and the D item slot shortly after I start playing?  
 A. The game grants all item slots by faking the game into thinking it has more achievements than it really does. It's a couple short of 110, which is the number that gives the D item slot. You'll technically need to clear 4 or so Awards before you can use the slot, but being restricted on this is a rare enough of an occurance that I think it's acceptable.
 
-Q. Why are there so many basic Glooples?
+Q. Why are there so many basic Glooples?  
 A. A weird side effect of excluding certain Gloople types the easy way like I did. Game gets upset if you don't keep the Active Enemies list populated, so every time the game removes one, it replaces it with a Gloople. Currently looking into a better solution.
 
 ## TODO
 
-> Implement Boss Spawn blocking
-> 
-> Implement Progressive Gloople Fusion Spawns
-> 
-> Implement logic for max score and single-swing score to be fairer
+> Implement Boss Spawn blocking  
+
+> Implement Progressive Gloople Fusion Spawns  
+
+> Implement logic for max score and single-swing score to be fairer  
