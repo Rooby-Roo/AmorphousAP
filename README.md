@@ -45,4 +45,6 @@ A. A weird side effect of excluding certain Gloople types the easy way like I di
 
 > Rename "Biter" Award
 
-> Reassess validity of existing Award spread. Remove Unfortunate, Absentee? Add tier two fights?
+> Reassess validity of existing Award spread. Remove Unfortunate, Absentee? Add tier two fights?  
+
+> "Level Unlocks" category adjustment
