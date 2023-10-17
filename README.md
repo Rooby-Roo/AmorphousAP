@@ -35,8 +35,14 @@ A. A weird side effect of excluding certain Gloople types the easy way like I di
 
 ## TODO
 
-> Implement Boss Spawn blocking  
+> Test Boss Spawn blocking  
 
 > Implement Progressive Gloople Fusion Spawns  
 
 > Implement logic for max score and single-swing score to be fairer  
+
+> Adjust logic for being able to crack grinders  
+
+> Rename "Biter" Award
+
+> Reassess validity of existing Award spread. Remove Unfortunate, Absentee? Add tier two fights?
