@@ -1,0 +1,188 @@
+[
+	{
+		"count":1,
+		"name": "Sprint",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Instant Wall",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Grenade",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Repulsor",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lure",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Box Gun",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Inhibitor",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Teleporter",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hazard Suit",
+		"category": ["Rewards"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Reactive Armor",
+		"category": ["Rewards"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Saw Drone",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Razor Glaive",
+		"category": ["Rewards"],
+		"useful": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Nest Size",
+		"category": ["Level Unlocks"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Bounty Speed",
+		"category": ["Level Unlocks"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Item Equip Slot",
+		"category": ["Rewards"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Stickies",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Biters",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Melties",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Sharps",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Clutters",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Inkies",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Grinders",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Fuzzles",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Torchies",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Frosties",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Gloople Fusions",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Horrors",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Amalgams",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Queens",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spawn Razor Queens",
+		"category": ["Gloople Spawns"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hardcore Mode",
+		"category": ["Level Unlocks"],
+		"progression": true
+	}
+]

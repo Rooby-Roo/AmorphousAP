@@ -1,0 +1,388 @@
+[
+	{
+		"name": "Participation",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Lemony",
+		"category": ["Awards"],
+		"requires": "|Spawn Stickies|"
+	},
+	{
+		"name": "Biter",
+		"category": ["Awards"],
+		"requires": "|Spawn Biters|"
+	},
+	{
+		"name": "Mixed Blessing",
+		"category": ["Awards"],
+		"requires": "|Spawn Melties|"
+	},
+	{
+		"name": "Replication",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Black Mark",
+		"category": ["Awards"],
+		"requires": "|Spawn Inkies| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Three Licks",
+		"category": ["Awards"],
+		"requires": "|Spawn Gloople Fusions|"
+	},
+	{
+		"name": "Hairball",
+		"category": ["Awards"],
+		"requires": "|Spawn Fuzzles| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Opportunist",
+		"category": ["Awards"],
+		"requires": "|Spawn Sharps| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Cold Front",
+		"category": ["Awards"],
+		"requires": "|Spawn Frosties| AND (|Progressive Nest Size:3| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Defuse",
+		"category": ["Awards"],
+		"requires": "|Spawn Frosties| AND (|Progressive Nest Size:3| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Immunology",
+		"category": ["Awards"],
+		"requires": "|Spawn Amalgams| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Armor Piercer",
+		"category": ["Awards"],
+		"requires": "|Spawn Gloople Fusions|"
+	},
+	{
+		"name": "Excavation",
+		"category": ["Awards"],
+		"requires": "|Spawn Grinders| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Bravery",
+		"category": ["Awards"],
+		"requires": "|Spawn Horrors| AND |Spawn Biters|"
+	},
+	{
+		"name": "Enforced Gravity",
+		"category": ["Awards"],
+		"requires": "|Spawn Gloople Fusions|"
+	},
+	{
+		"name": "Red Queen",
+		"category": ["Awards"],
+		"requires": "|Spawn Queens| AND |Progressive Nest Size:2|"
+	},
+	{
+		"name": "Preventative Measures",
+		"category": ["Awards"],
+		"requires": "|Spawn Gloople Fusions|"
+	},
+	{
+		"name": "Good Combo",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Nice Combo",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Sweet Combo",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Awesome Combo",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Sick Combo",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Incredible Combo",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Unbelievable Combo",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Solid Swing",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Big Swing",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Great Swing",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Huge Swing",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Massive Swing",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:3| AND |Spawn Grinders| AND |Spawn Fuzzles| AND |Spawn Sharps| AND |Spawn Inkies| AND |Spawn Biters| AND |Spawn Melties| AND |Spawn Clutters|"
+	},
+	{
+		"name": "Brutal Swing",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:3| AND |Spawn Grinders| AND |Spawn Fuzzles| AND |Spawn Sharps| AND |Spawn Inkies| AND |Spawn Biters| AND |Spawn Melties| AND |Spawn Clutters|"
+	},
+	{
+		"name": "Killer Swing",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:3| AND |Spawn Grinders| AND |Spawn Fuzzles| AND |Spawn Sharps| AND |Spawn Inkies| AND |Spawn Biters| AND |Spawn Melties| AND |Spawn Clutters|"
+	},
+	{
+		"name": "Victory!",
+		"category": ["Awards"],
+		"requires": ["|Progressive Nest Size|"]
+	},
+	{
+		"name": "Mad Skills",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:2|"
+	},
+	{
+		"name": "Bragging Rights",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:3|"
+	},
+	{
+		"name": "Novice",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Apprentice",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Hunter",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Warrior",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Adept",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:2| OR |Progressive Bounty Speed|"
+	},
+	{
+		"name": "Expert",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:2| OR |Progressive Bounty Speed|"
+	},
+	{
+		"name": "Champion",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:2| OR |Progressive Bounty Speed|"
+	},
+	{
+		"name": "Elite",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:2| OR |Progressive Bounty Speed|"
+	},
+	{
+		"name": "Hero",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:3| AND |Spawn Grinders| AND |Spawn Fuzzles| AND |Spawn Sharps| AND |Spawn Inkies| AND |Spawn Biters| AND |Spawn Melties| AND |Spawn Clutters|"
+	},
+	{
+		"name": "Legend",
+		"category": ["Awards"],
+		"requires": "|Progressive Nest Size:3| AND |Spawn Grinders| AND |Spawn Fuzzles| AND |Spawn Sharps| AND |Spawn Inkies| AND |Spawn Biters| AND |Spawn Melties| AND |Spawn Clutters|"
+	},
+	{
+		"name": "Alertness",
+		"category": ["Awards"],
+		"requires": "|Progressive Bounty Speed|"
+	},
+	{
+		"name": "Danger Sense",
+		"category": ["Awards"],
+		"requires": "|Progressive Bounty Speed|"
+	},
+	{
+		"name": "Threat Assessment",
+		"category": ["Awards"],
+		"requires": "|Progressive Bounty Speed|"
+	},
+	{
+		"name": "Sharp Reflexes",
+		"category": ["Awards"],
+		"requires": "|Progressive Bounty Speed|"
+	},
+	{
+		"name": "Keen Instincts",
+		"category": ["Awards"],
+		"requires": "|Progressive Bounty Speed|"
+	},
+	{
+		"name": "Nerves of Steel",
+		"category": ["Awards"],
+		"requires": "|Progressive Bounty Speed|"
+	},
+	{
+		"name": "Untouchable",
+		"category": ["Awards"],
+		"requires": "|Progressive Bounty Speed|"
+	},
+	{
+		"name": "Absentee",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Picky",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Jackpot!",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Unfortunate",
+		"category": ["Awards"],
+		"requires": "|Spawn Biters|"
+	},
+	{
+		"name": "Pacifist",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Bully",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Zen Master",
+		"category": ["Awards"],
+		"requires": "|Spawn Inkies| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Passive Aggressive",
+		"category": ["Awards"],
+		"requires": "|Spawn Sharps| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Guerilla Tactics",
+		"category": ["Awards"],
+		"requires": "|Spawn Sharps| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Clean Shave",
+		"category": ["Awards"],
+		"requires": "|Spawn Fuzzles| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Firefighter",
+		"category": ["Awards"],
+		"requires": "|Spawn Torchies| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Duelist",
+		"category": ["Awards"],
+		"requires": "|Spawn Queens| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Blade Master",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Impressionist",
+		"category": ["Awards"],
+		"requires": "(|Spawn Clutters| AND |Spawn Biters| AND |Spawn Stickies|) OR (|Spawn Clutters| AND |Spawn Biters| AND |Spawn Melties|) OR (|Spawn Clutters| AND |Spawn Melties| AND |Spawn Stickies|) OR (|Spawn Biters| AND |Spawn Stickies| AND |Spawn Melties|)"
+	},
+	{
+		"name": "Badass",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Purple Heart",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Blindsight",
+		"category": ["Awards"],
+		"requires": "|Spawn Inkies| AND (|Progressive Nest Size:2| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Frostbitten",
+		"category": ["Awards"],
+		"requires": "|Spawn Frosties| AND (|Progressive Nest Size:3| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Demolition",
+		"category": ["Awards"],
+		"requires": "|Spawn Torchies| AND (|Spawn Inkies| OR |Spawn Grinders|) AND (|Progressive Nest Size:3| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Burn Ward",
+		"category": ["Awards"],
+		"requires": "|Spawn Torchies| AND (|Spawn Stickies| OR |Spawn Frosties|) AND (|Progressive Nest Size:3| OR |Progressive Bounty Speed:1|)"
+	},
+	{
+		"name": "Accident Prone",
+		"category": ["Awards"],
+		"requires": []
+	},
+	{
+		"name": "Friendly",
+		"category": ["Awards"],
+		"requires": "|Spawn Clutters|"
+	},
+	{
+		"name": "Dirty Job",
+		"category": ["Awards"],
+		"requires": "|Spawn Stickies|"
+	},
+	{
+		"name": "Till It Breaks",
+		"category": ["Awards"],
+		"requires": "|Spawn Sharps| AND |Spawn Grinders| AND |Progressive Nest Size:2|"
+	},
+	{
+		"name": "Slay the Razor Queen (Victory)",
+		"victory": true,
+		"category": [],
+		"requires": "|Progressive Nest Size:3| AND |Spawn Razor Queens| AND |Spawn Stickies| AND |Spawn Clutters| AND |Spawn Melties| AND |Spawn Biters| AND |Spawn Sharps| AND |Spawn Grinders| AND |Spawn Inkies| AND |Spawn Frosties| AND |Spawn Torchies| AND |Spawn Gloople Fusions| AND |Spawn Horrors| AND |Spawn Amalgams| AND |Spawn Queens| AND |Hazard Suit| AND |Reactive Armor| AND |Progressive Item Equip Slot:2|"
+	}
+]

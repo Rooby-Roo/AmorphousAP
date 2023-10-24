@@ -1,0 +1,12 @@
+
+	{
+		"game": "Amorphous",
+		"creator": "RoobyRoo",
+		"filler_item_name": "Gloop",
+		"starting_items": [
+			{
+				"items": ["Progressive Nest Size","Progressive Bounty Speed"],
+				"random": 1
+			}
+		]
+	}
