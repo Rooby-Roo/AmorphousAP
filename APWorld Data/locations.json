@@ -162,7 +162,7 @@
 	{
 		"name": "Victory!",
 		"category": ["Awards"],
-		"requires": ["|Progressive Nest Size|"]
+		"requires": "|Progressive Nest Size|"
 	},
 	{
 		"name": "Mad Skills",
